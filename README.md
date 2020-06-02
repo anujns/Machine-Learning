@@ -14,3 +14,4 @@ Covers all the assignments and projects for CSE 574 - Machine Learning
 ## Programming Assignment 3 - Fairness in ML
 
 - Implemented 5 different post-processing techniques to assess fairness of ML Model. Case Study: Northpointe’s COMPAS system, which is an algorithm widely used for considerations in pretrial detention and sentence determination.
+- Read through "Machine Learning Fairness Primer" for an in-depth understanding of Fairness in ML.
